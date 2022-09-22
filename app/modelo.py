@@ -1,4 +1,3 @@
-import re
 from tkinter import (END, messagebox)
 from peewee import *
 import validacion
@@ -30,7 +29,7 @@ class ABMM:
 
 
         try: 
-            validacion.Validar.validar_agregar(var_hora,var_mensaje) 
+            validacion.Validar.validar_agregar(var_hora, var_mensaje)
             agendar = Tabla()
             agendar.dia=var_dia.get()
             agendar.hora=var_hora.get()

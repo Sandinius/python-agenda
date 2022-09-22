@@ -23,10 +23,10 @@ class Validar:
         texto = (var_id_borrar.get())
         opcion = "[0-9_]+$"    
         if not re.match(opcion, texto):
-            raise ValueError("El campo ID no puede estar vacio introduzca el numero de ID a borrar")
+            raise ValueError("El campo ID no puede estar vacio introduzca el numero de ID app borrar")
 
     def validar_modificar(var_id_modificar):
         texto = (var_id_modificar.get())
         opcion = "[0-9_]+$"    
         if not re.match(opcion, texto):
-            raise ValueError("El campo ID no puede estar vacio introduzca el numero de ID a modificar")
+            raise ValueError("El campo ID no puede estar vacio introduzca el numero de ID app modificar")
