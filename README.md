@@ -22,11 +22,11 @@ Para iniciar la agenda, debe correr el comando agenda en una terminal luego de h
 ### Crear una cita
 
 - En el menu desplegable elija el día.
-- ![menu desplegable](./imagenes/foto2)
+![menu desplegable](./imagenes/foto2)
 - Escriba el nombre de la cita.
 - Escriba el horario en formato hh:mm o hhmm.
-- 
-- ![Cita y horario](./imagenes/foto3)
+
+![Cita y horario](./imagenes/foto3)
 - Para guardar, oprima el botón de alta.
 - ![alta cita](./imagenes/foto4)
 
@@ -35,12 +35,12 @@ Para iniciar la agenda, debe correr el comando agenda en una terminal luego de h
 - Escriba el nombre de la cita modificado.
 - Escriba el horario modificado en formato hh:mm o hhmm.
 - Debajo del boton modificar escriba el numero de ID de la cita
-- ![modificar cita y horario](./imagenes/foto5)
+![modificar cita y horario](./imagenes/foto5)
 - Para modificar oprima el boton modificar
-- ![modificar](./imagenes/foto6)
+![modificar](./imagenes/foto6)
 ### Borrar cita
 
 - Debajo del boton borrar escriba el numero de ID de la cita
-- ![borrar cita](./imagenes/foto7)
+![borrar cita](./imagenes/foto7)
 - Para borrar oprima el boton borrar
-- ![borrar](./imagenes/foto8)
+![borrar](./imagenes/foto8)
