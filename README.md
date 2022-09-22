@@ -28,7 +28,7 @@ Para iniciar la agenda, debe correr el comando agenda en una terminal luego de h
 
 ![Cita y horario](./imagenes/foto3)
 - Para guardar, oprima el botón de alta.
-- ![alta cita](./imagenes/foto4)
+![alta cita](./imagenes/foto4)
 
 ### Modificar cita
 
